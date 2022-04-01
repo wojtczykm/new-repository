@@ -1,1 +1,2 @@
 wpisuje cośtam do pliku
+modyfikuje ten plik
